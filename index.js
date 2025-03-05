@@ -3,6 +3,5 @@ setTimeout(() => {
 }, 3000);
 function feature1func()
 {
-    console.log('i am a feature1 function');
-
-  
+    console.log('i am a feature1 function');  
+}
